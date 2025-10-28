@@ -16,7 +16,9 @@
     "react-icons": "^5.4.0",
     "react-scroll": "^1.9.0",
     "react-toastify": "^11.0.5",
-    "sass": "^1.83.1"
+    "sass": "^1.83.1",
+    "@remix-run/dev": "^1.20.0"
+
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
