@@ -17,7 +17,7 @@
     "react-scroll": "^1.9.0",
     "react-toastify": "^11.0.5",
     "sass": "^1.83.1",
-    "@remix-run/dev": "^1.20.0"
+   "@remix-run/dev": "^2.13.1"
 
   },
   "devDependencies": {
