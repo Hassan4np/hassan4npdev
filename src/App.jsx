@@ -6,7 +6,7 @@ import Service from './components/Service'
 import Portfolio from './components/Portfolio'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
-import VideoWorks from './components/VideoWorks'
+import Testimonials from './components/Testimonials'
 function App() {
   return (
     <div>
@@ -15,7 +15,7 @@ function App() {
       <Service />
       <Portfolio />
       <Details />
-      <VideoWorks />
+      <Testimonials/>
       <Vision />
       <Contact />
       <Footer />

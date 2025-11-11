@@ -9,7 +9,7 @@ export default function About() {
     "https://drive.google.com/uc?export=download&id="
   ).replace("/view?usp=sharing", "");
   return (
-    <div className="about px-2  pt-20 xl:pt-[120px] 2xl:pt-[160px] pb-12 lg:pb-16 xl:pb-20 2xl:pb-[115px] bg-[#FFE9D9]">
+    <div className="about px-2 pt-20 xl:pt-[120px] 2xl:pt-[160px] pb-12 lg:pb-16 xl:pb-20 2xl:pb-[115px] bg-[#FFE9D9]">
       <Container>
         <Row className="justify-between items-center">
           <Col xs={12} md={6} lg={5} className="mb-5 md:mb-0">
